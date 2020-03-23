@@ -3,10 +3,15 @@ This is a central repository for all code associated with a study on training ai
 
 In order to run the Matlab script, have the following databases accesible in the same file location as your code:
 1. A folder called "FAA Registry" that conatains:
+
     a. MASTER.txt
+    
     b. DEREG.txt
+    
     c. ENGINE.txt
+    
     d. ACFTREF.txt
+    
 2. An excel sheet from the NTSB Microsoft Access database called "aircraft_NewNTSB.xlsx"
 3. A text file from the NTSB downloadable databased called "AviationData.txt"
 
